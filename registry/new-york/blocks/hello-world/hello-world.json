@@ -6,7 +6,7 @@
   "description": "A simple hello world component that displays a greeting message.",
   "files": [
     {
-      "path": "registry/hello-world.tsx",
+      "path": "registry/new-york/blocks/hello-world/hello-world.tsx",
       "type": "registry:component"
     }
   ]
