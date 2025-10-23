@@ -1,7 +1,7 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry.json",
   "name": "acme",
-  "homepage": "https://acme.com",
+  "homepage": "https://github.com/SplashCodeDex/MyRegistry",
   "items": [
     {
       "name": "hello-world",
